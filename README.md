@@ -16,4 +16,4 @@ I am a developer based in Chennai, Tamil Nadu, specializing in building robust w
 
 ### 📫 Connect With Me
 * [LinkedIn](https://www.linkedin.com/in/IshanKhannaDev)
-* [LeetCode](Your LeetCode Profile URL)
+* [LeetCode](https://leetcode.com/u/Indythegr8/)
